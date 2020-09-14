@@ -1,4 +1,4 @@
-## extract text from any pdf through pyPdf
+## extract text from any pdf through pyPDF2
 
 import PyPDF2
 text= PyPDF2.PdfFileReader('filename.pdf')
